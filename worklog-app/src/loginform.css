@@ -1,0 +1,51 @@
+.formbody{
+    justify-content: center;
+	/*background-color: #cccccc;
+	background-image: url("http://redpithemes.com/Documentation/assets/img/page_bg/page_bg_blur02.jpg");*/
+}
+#logincontainer{
+	border-radius: 10px;
+	background-color: #262626;
+	margin-top: 150px;
+	padding-top: 30px;
+	width: 338px;
+}
+.login-div{
+	color: white;
+    background-color: #262626;
+    text-align: center;
+}
+.form-div{
+	margin-top: -8px;
+	background-color: white;
+	margin-left: -15px;
+	margin-right: -15px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-radius: 10px;
+}
+#input-control{
+	background: lightgrey;
+	border-radius: 10px;
+	margin: 20px;
+	width: 300px;
+	justify-content: center;
+	padding: 15px 15px;
+	font-family: open Sans;
+	
+}
+.lock {
+	width: 20px;
+	height: 28px;
+	padding-bottom: 5px;
+}
+#button{
+	background-color: #262626;
+	border: none;
+	width: 100px;
+	margin-left: 110px;
+}
+.error_msg {
+    color: rgb(19, 17, 17);
+    text-align: center;
+}

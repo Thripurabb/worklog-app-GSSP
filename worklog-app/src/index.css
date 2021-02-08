@@ -1,0 +1,28 @@
+#form-container{
+    justify-content: center;
+    font-weight: 500;
+    width: 400px;
+  }
+  #card-container
+  {
+    width: 700px;
+  }
+  .card:hover {
+    transform: scale(0.99);
+    box-shadow: 0 5px 10px rgba(0, 0, 0, .12), 0 2px 4px rgba(0, 0, 0, .06);
+  }
+  #cardlinks
+  {
+    text-decoration: none;
+    color: black;
+  }
+  #addbtncontainer{
+    justify-content: center;
+  }
+  #addbtn{
+    width: 100px;
+    text-align: center;
+  }
+  #addbtnlink:hover{
+    text-decoration: none;
+  }
